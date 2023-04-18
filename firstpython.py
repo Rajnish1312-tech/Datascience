@@ -1,0 +1,7 @@
+print("Welcome to Data science world")
+print("-----------------------------")
+print("IBM Data Science")
+print("-----------------------------")
+print("Tools for Data science")
+print("-----------------------------")
+print("Git and Github for beginners")
